@@ -1,6 +1,5 @@
 package dev.jaredjjohnson.advent.puzzles.day2
 
-// TODO: Maybe make an enum
 sealed interface Move : Comparable<Move> {
     val value: Int
     fun winsAgainst(): Move

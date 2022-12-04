@@ -2,7 +2,6 @@ package dev.jaredjjohnson.advent.puzzles.day2
 
 import dev.jaredjjohnson.advent.core.PuzzleLoader
 import dev.jaredjjohnson.advent.core.Solution
-import dev.jaredjjohnson.advent.core.Unsolved
 
 class Day2Solution : Solution {
     override val day: Int = 2
